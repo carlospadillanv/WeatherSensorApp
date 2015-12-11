@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherSensorApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="cities_array">
+        <item>London,UK</item>
+        <item>New York,US</item>
+        <item>Paris,France</item>
+        <item>Bogota,Colombia</item>
+        <item>Rome,Italy</item>
+        <item>Ontario,Canada</item>
+    </string-array>
+
+</resources>
